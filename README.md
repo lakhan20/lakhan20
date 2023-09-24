@@ -1,5 +1,4 @@
 <center> <h1>Hi👋, I'm Lakhan</h1></center>
-<hr>
 
 **lakhan20/lakhan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

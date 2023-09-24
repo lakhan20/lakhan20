@@ -1,4 +1,5 @@
-<center align="center"> <h1>Hi👋, I'm Lakhan</h1></center>
+
+<h1 align="center">Hi👋, I'm Lakhan</h1></center>
 
 **lakhan20/lakhan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
